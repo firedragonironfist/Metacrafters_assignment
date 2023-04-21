@@ -52,4 +52,4 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 ## Authors
 
 Mohammed Yousuf Parvez
-[@yousufm32321948]([https://twitter.com/metacraftersio](https://twitter.com/yousufm32321948))
+[@yousufm32321948](https://twitter.com/yousufm32321948)
